@@ -1,0 +1,21 @@
+
+}
+.body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: black;
+    background-color: rgb(247, 247, 240);
+}
+.bold {font-weight: bold;}
+
+.bg {
+    background-image: url('../assets/Image/BG.jpg');
+    background-position: top left;
+    background-repeat: repeat;
+}
+
+    
+.subheader {
+        float: right;
+    
+    }

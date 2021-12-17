@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+    background-color: rgb(247, 247, 240);
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.bold {font-weight: bold;}
+
+.underline {text-decoration: underline;}
+
+.justify {
+    text-align: justify;
+}
+
+.bg {
+    background-image: url('Images/Background.jpg');
+    background-position: top left;
+    background-repeat: repeat;
+}
+
+.italic {
+    font-style: italic;
+}
